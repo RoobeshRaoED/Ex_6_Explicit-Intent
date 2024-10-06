@@ -239,9 +239,7 @@ public class SecondActivity extends AppCompatActivity {
 ```
 ## OUTPUT:
 
-<img src="1.png" width="400">
-
-<img src="2.png" width="400">
+<img src="1.png" width="400">         <img src="2.png" width="400">
 
 ## RESULT:
 
